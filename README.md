@@ -5,11 +5,6 @@
     <link href='stylesheet.css' rel='stylesheet'>
 </head>
 <body>
-	<div class="jumbotron">
-	<div class="icon-menu">
-        <i class="fa fa-bars"></i>
-        Menu
-      </div>
 <h5><em>About me</em></h5>
 			<a href="http://www.facebook.com/AndrewLKingston"><img src="https://s-media-cache-ak0.pinimg.com/avatars/akingston88-1346654635_140.jpg"/></a>
 			<div><a href="https://www.facebook.com/AndrewLKingston">Friend me on <span>Facebook!</span></a></div>
